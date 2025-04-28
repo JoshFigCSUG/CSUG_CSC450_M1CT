@@ -1,0 +1,35 @@
+/**
+ * @file CSC450_CT1_mod1-1.cpp.h
+ * @brief 
+ * @author joshd
+ * @date Apr 23, 2025
+ */
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+	// code goes here
+
+    return 0;
+}
+
+
+/* Simple Program with a few Errors for Correction
+Please be sure to correct all outlined errors.
+*/
+#include<iostream>
+#include<conio.h>
+Standard namespace declaration
+using namespace std;
+Main Function
+int main()
+{
+//Standard Ouput Statement
+cout<<"Welcome to this C++ Program"<<endl;
+cout<<I have corrected all errors for this program. <<endl;
+// Wait For Output Screen
+//Main Function return Statement
+}

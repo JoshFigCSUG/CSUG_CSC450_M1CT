@@ -1,0 +1,6 @@
+16:16:15 **** Incremental Build of configuration Debug for project helloworld5 ****
+Info: Internal Builder is used for build
+g++ -o helloworld5.exe helloworld.o 
+
+16:16:15 Build Finished. 0 errors, 0 warnings. (took 217ms)
+

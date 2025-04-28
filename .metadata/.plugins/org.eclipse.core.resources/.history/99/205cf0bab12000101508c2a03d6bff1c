@@ -1,0 +1,32 @@
+/**
+ * @file main.cpp.h
+ * @brief 
+ * @author joshd
+ * @date Apr 23, 2025
+ */
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+	string firstName = "Josh";
+	string lastName = "Figueroa";
+	string streeAddress = "456 Grape Street";
+	string city = "Eagle";
+	int zipCode = 80219;
+
+	cout << firstName << endl;
+	cout << lastName << endl;
+	cout << streeAddress << endl;
+	cout << city << endl;
+	cout << zipCode << endl;
+
+	//int x;
+	//cout << "Type anything and then hit enter";
+	cout << "Good-bye" << endl;
+	//cin >> x; // Get user input from the keyboard
+
+    return 0;
+}

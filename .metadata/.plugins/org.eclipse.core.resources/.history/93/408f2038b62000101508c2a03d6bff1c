@@ -1,0 +1,22 @@
+/* Simple Program with a few Errors for Correction
+Please be sure to correct all outlined errors.
+Corrected: added closing block comment
+*/
+#include<iostream>
+#include<conio.h>
+
+//Standard namespace declaration
+using namespace std;
+
+//Main Function
+int main()
+{
+	//Standard Output Statement Corrected: added a 't' in 'Output'
+	cout<<"Welcome to this C++ Program"<<endl;
+	cout<<"I have corrected all errors for this program." <<endl;
+	// Wait For Output Screen
+	printf("Press any key to continue...");
+	getch();  // waits for a key press without showing the key
+	//Main Function return Statement
+	return 0;
+}

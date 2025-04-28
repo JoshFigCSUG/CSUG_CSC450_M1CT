@@ -1,0 +1,33 @@
+2025-04-17 13:34:23,230 [Worker-5: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 13:38:52,248 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 13:39:17,823 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 22.0.2+9-70
+2025-04-17 13:39:17,931 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@47916e6e{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@426f736a{STARTED}}
+2025-04-17 13:39:17,933 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-17 13:39:17,969 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@3bf03b46{HTTP/1.1, (http/1.1)}{127.0.0.1:50770}
+2025-04-17 13:39:17,979 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@488e21ce{STARTING}[12.0.9,sto=0] @100477ms
+2025-04-17 13:39:19,043 [qtp1505137856-83] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2025-04-17 13:39:21,152 [qtp1505137856-83] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2025-04-17 14:28:35,655 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@488e21ce{STOPPING}[12.0.9,sto=0]
+2025-04-17 14:28:35,658 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@3bf03b46{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-17 14:32:46,071 [Worker-4: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 14:37:45,155 [Start Help Server] INFO  org.eclipse.jetty.server.Server - jetty-12.0.9; built: 2024-05-03T13:03:17.262Z; git: efe8023327e67287f9bfd006700e6a71d45b5dd6; jvm 22.0.2+9-70
+2025-04-17 14:37:45,219 [Start Help Server] INFO  o.e.j.server.handler.ContextHandler - Started oeje8n.ContextHandler$CoreContextHandler@6e6d007a{/help,/help,b=null,a=AVAILABLE,h=oeje8n.ContextHandler$CoreContextHandler$CoreToNestedHandler@70ad9f1f{STARTED}}
+2025-04-17 14:37:45,220 [Start Help Server] INFO  o.e.j.s.DefaultSessionIdManager - Session workerName=node0
+2025-04-17 14:37:45,241 [Start Help Server] INFO  o.e.jetty.server.AbstractConnector - Started ServerConnector@5ef746a5{HTTP/1.1, (http/1.1)}{127.0.0.1:51279}
+2025-04-17 14:37:45,248 [Start Help Server] INFO  org.eclipse.jetty.server.Server - Started oejs.Server@2a9e0e4e{STARTING}[12.0.9,sto=0] @544967ms
+2025-04-17 14:37:45,939 [qtp494902885-143] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2025-04-17 14:37:46,745 [qtp494902885-143] INFO  o.e.j.e.nested.ContextHandler._help - Warning: No org.apache.tomcat.JarScanner set in ServletContext. Falling back to default JarScanner implementation.
+2025-04-17 14:56:10,170 [Stop Help Server] INFO  org.eclipse.jetty.server.Server - Stopped oejs.Server@2a9e0e4e{STOPPING}[12.0.9,sto=0]
+2025-04-17 14:56:10,175 [Stop Help Server] INFO  o.e.jetty.server.AbstractConnector - Stopped ServerConnector@5ef746a5{HTTP/1.1, (http/1.1)}{127.0.0.1:0}
+2025-04-17 15:25:29,196 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-17 15:32:09,448 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-17 22:12:42,807 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-23 19:49:40,793 [Worker-1: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-24 09:18:43,911 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-24 09:48:13,199 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-24 10:50:36,197 [Worker-3: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-24 18:17:39,491 [Worker-0: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-24 18:40:03,255 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is not available. Remote download required.
+2025-04-24 18:55:30,263 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.
+2025-04-27 20:37:09,907 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is out-of-date. Trying to update.
+2025-04-27 20:48:52,675 [Worker-2: Loading available Gradle versions] INFO  o.e.b.c.i.u.g.PublishedGradleVersions - Gradle version information cache is up-to-date. Trying to read.

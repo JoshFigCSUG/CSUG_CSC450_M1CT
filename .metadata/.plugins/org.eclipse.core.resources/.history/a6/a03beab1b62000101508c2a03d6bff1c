@@ -1,0 +1,23 @@
+#ifndef CSC450_CT1_mod1-2_CSC450_CT1_mod1-2.cpp_H_
+#define CSC450_CT1_mod1-2_CSC450_CT1_mod1-2.cpp_H_
+
+/**
+ * @file CSC450_CT1_mod1-2.cpp.h
+ * @brief 
+ * @author joshd
+ * @date Apr 23, 2025
+ */
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+	// code goes here
+
+    return 0;
+}
+
+
+#endif // CSC450_CT1_mod1-2_CSC450_CT1_mod1-2.cpp_H_

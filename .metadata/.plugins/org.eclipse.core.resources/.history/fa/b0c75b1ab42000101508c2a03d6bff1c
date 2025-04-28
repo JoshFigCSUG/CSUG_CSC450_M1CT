@@ -1,0 +1,23 @@
+#ifndef M1CT_CSC450_CT1_mod1-1.cpp_H_
+#define M1CT_CSC450_CT1_mod1-1.cpp_H_
+
+/**
+ * @file CSC450_CT1_mod1-1.cpp.h
+ * @brief 
+ * @author joshd
+ * @date Apr 23, 2025
+ */
+
+#include <iostream>
+#include <string>
+
+using namespace std;
+
+int main() {
+	// code goes here
+
+    return 0;
+}
+
+
+#endif // M1CT_CSC450_CT1_mod1-1.cpp_H_
