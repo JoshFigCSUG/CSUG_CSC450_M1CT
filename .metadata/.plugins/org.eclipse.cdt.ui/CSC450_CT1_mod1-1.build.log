@@ -1,7 +1,7 @@
-21:46:32 **** Incremental Build of configuration Debug for project CSC450_CT1_mod1-1 ****
+22:33:44 **** Rebuild of configuration Debug for project CSC450_CT1_mod1-1 ****
 Info: Internal Builder is used for build
 g++ -O0 -g3 -Wall -c -fmessage-length=0 -o CSC450_CT1_mod1-1.o "..\\CSC450_CT1_mod1-1.cpp" 
 g++ -o CSC450_CT1_mod1-1.exe CSC450_CT1_mod1-1.o 
 
-21:46:33 Build Finished. 0 errors, 0 warnings. (took 939ms)
+22:33:45 Build Finished. 0 errors, 0 warnings. (took 959ms)
 
